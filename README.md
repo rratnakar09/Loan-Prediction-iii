@@ -1,4 +1,7 @@
 # Loan-Prediction-iii
 
 Problem:
-A Company wants to automate the loan eligibility process based on customer details provided while filling online application form. The details filled by the customer are Gender, Marital Status, Education, Number of Dependents, Income of self and co applicant, Required Loan Amount, Required Loan Term, Credit History and others. The requirements are as follows:
+Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers.
+
+This problem is ongoing on "datahack.analyticsvidhya.com".
+Link: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
