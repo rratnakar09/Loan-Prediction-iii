@@ -5,3 +5,5 @@ Company wants to automate the loan eligibility process (real time) based on cust
 
 This problem is ongoing on "datahack.analyticsvidhya.com".
 Link: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
+
+The notebook "Loan_Prediction-Copy1.ipynb" was part of machine learning assessment for Blucognition : Data Scientist job.
